@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bookshelf App</string>
+    <string name="no_content">No records found for \"%s\"</string>
+    <string name="search_label">Enter your phase</string>
+    <string name="hello_message">Hello!\nClick search to find your desired books!</string>
+</resources>
